@@ -1,0 +1,16 @@
+,id,code,team_h,team_h_score,team_a,team_a_score,event,finished,minutes,provisional_start_time,kickoff_time,event_name,is_home,difficulty,first_name,second_name
+0,1,2292810,7,,1,,1,False,0,False,2022-08-05T19:00:00Z,Gameweek 1,False,2,Bukayo,Saka
+1,1,2292810,7,,1,,1,False,0,False,2022-08-05T19:00:00Z,Gameweek 1,False,2,Gabriel,Fernando de Jesus
+2,1,2292810,7,,1,,1,False,0,False,2022-08-05T19:00:00Z,Gameweek 1,False,2,Gabriel,dos Santos Magalhães
+3,2,2292811,3,,2,,1,False,0,False,2022-08-06T14:00:00Z,Gameweek 1,False,2,Matty,Cash
+5,3,2292812,8,,6,,1,False,0,False,2022-08-06T16:30:00Z,Gameweek 1,False,2,Jorge Luiz,Frello Filho
+6,4,2292813,9,,12,,1,False,0,False,2022-08-06T11:30:00Z,Gameweek 1,False,2,Alisson,Ramses Becker
+7,4,2292813,9,,12,,1,False,0,False,2022-08-06T11:30:00Z,Gameweek 1,False,2,Virgil,van Dijk
+8,4,2292813,9,,12,,1,False,0,False,2022-08-06T11:30:00Z,Gameweek 1,False,2,Trent,Alexander-Arnold
+14,5,2292814,11,,20,,1,False,0,False,2022-08-06T14:00:00Z,Gameweek 1,False,2,José,Malheiro de Sá
+9,10,2292819,19,,13,,1,False,0,False,2022-08-07T15:30:00Z,Gameweek 1,False,3,João,Cancelo
+10,10,2292819,19,,13,,1,False,0,False,2022-08-07T15:30:00Z,Gameweek 1,False,3,Bernardo,Veiga de Carvalho e Silva
+4,6,2292815,10,,4,,1,False,0,False,2022-08-07T13:00:00Z,Gameweek 1,False,4,Ivan,Toney
+11,8,2292817,18,,17,,1,False,0,False,2022-08-06T14:00:00Z,Gameweek 1,False,4,James,Ward-Prowse
+12,10,2292819,19,,13,,1,False,0,False,2022-08-07T15:30:00Z,Gameweek 1,True,5,Jarrod,Bowen
+13,10,2292819,19,,13,,1,False,0,False,2022-08-07T15:30:00Z,Gameweek 1,True,5,Michail,Antonio

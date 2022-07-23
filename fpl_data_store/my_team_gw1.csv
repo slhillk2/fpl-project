@@ -1,0 +1,16 @@
+,id_x,first_name,second_name,name,plural_name_short,is_captain,is_vice_captain
+5,13,Bukayo,Saka,Arsenal,MID,False,False
+10,28,Gabriel,Fernando de Jesus,Arsenal,FWD,True,False
+12,16,Gabriel,dos Santos Magalhães,Arsenal,DEF,False,False
+3,43,Matty,Cash,Aston Villa,DEF,False,False
+9,80,Ivan,Toney,Brentford,FWD,False,False
+6,130,Jorge Luiz,Frello Filho,Chelsea,MID,False,False
+0,281,Alisson,Ramses Becker,Liverpool,GKP,False,False
+1,280,Virgil,van Dijk,Liverpool,DEF,False,False
+2,285,Trent,Alexander-Arnold,Liverpool,DEF,False,False
+4,306,João,Cancelo,Man City,DEF,False,False
+7,311,Bernardo,Veiga de Carvalho e Silva,Man City,MID,False,True
+8,407,James,Ward-Prowse,Southampton,MID,False,False
+13,465,Jarrod,Bowen,West Ham,MID,False,False
+14,458,Michail,Antonio,West Ham,FWD,False,False
+11,478,José,Malheiro de Sá,Wolves,GKP,False,False
